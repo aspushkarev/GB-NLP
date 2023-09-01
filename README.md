@@ -5,3 +5,4 @@ Studying at GB on the course Introducing in NLP
 3. Embedding. Word2Vec, FastText;
 4. thematic modeling. Thematic modeling. LDA model and attempt implement BigARTM Library in Google Colab;
 5. NER. Parts-of-Speech, NER;
+6. Text_classification_Sentiment_Analysis. Sentiment Analysis
