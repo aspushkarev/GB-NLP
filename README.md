@@ -7,4 +7,4 @@ Studying at GB on the course Introducing in NLP
    LDA model and attempt implement BigARTM Library in Google Colab;
 5. NER. Parts-of-Speech, NER;
 6. Sentiment_Analysis. Sentiment Analysis;
-7. 
+7. CNN. Convolutional Neural Networks for Text Analysis;
