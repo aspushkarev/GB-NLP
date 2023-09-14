@@ -11,4 +11,5 @@ Studying at GB on the course Introducing in NLP
 8. CNN_RNN_LSTM_GRU. Compare CNN, RNN, LSTM, GURU;
 9. text_generation. Trained model based on the poem by Russian poet Alexander Pushkin “Eugene Onegin”;
 10. seq2seq. Neural machine translation with attention;
-11. To be continue...
+11. Transformer1. Understand the translation model (with the attention) how it works, launch it to translate from Russian into English;
+12. To be continue...
