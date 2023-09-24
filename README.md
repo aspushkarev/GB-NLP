@@ -14,4 +14,5 @@ Studying at GB on the course Introducing in NLP
 11. Transformer1. Understand the translation model (with the attention) how it works, launch it to translate from Russian into English;
 12. Summarization. Implement the task of text summarization;
 13. BERT. Task of paraphrase, text2text generation by using pre-trained model BERT;
-14. To be continue...
+14. NER_GPT_T5. Named entity recognition. GPT. T5;
+15. To be continue...
