@@ -15,4 +15,4 @@ Studying at GB on the course Introducing in NLP
 12. Summarization. Implement the task of text summarization;
 13. BERT. Task of paraphrase, text2text generation by using pre-trained model BERT;
 14. NER_GPT_T5. Named entity recognition. GPT. T5;
-15. To be continue...
+15. bot. Added tg_bot. But not it work. I don`t have enough time to implement it
